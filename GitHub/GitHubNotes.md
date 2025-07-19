@@ -24,3 +24,8 @@ First get that **token** and record it.  It will disappear from even GitHub.  Na
 [USER ICON] - settings - <> developer settings - Personal access tokens -
 Tokens (classic) - [TOKEN NAME]   (I simply checked the **repo** section)
 ```
+# References
+### [1]  How to Push Code to GitHub on the Command Line (2024 updated) - with Authentication
+**Infinite Codes** Apr 7, 2024 [YouTube](https://youtu.be/G7vMhsTUzWI)
+
+

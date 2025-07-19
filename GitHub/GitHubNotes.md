@@ -28,7 +28,7 @@ Select Scopes - just check **repo** - push "green" Generate Token -
 (copy it - there is a copy icon after it)
 
 Coming back to this path will only allow you to see the name you created in "New Note" and
-change some of he token settings or add a new one, etc.
+change some of the token settings or add a new one, etc.
 ```
 
 

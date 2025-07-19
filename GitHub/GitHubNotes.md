@@ -18,8 +18,9 @@ I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of
 
 There are two sets of setting that confused me!  There is the **USER ICON** settings found under that top right widget.  I loaded a **PNG** file of myself to make that clear.  Then there is a settings menu on a specific respository page.  Call that the **REPO SETTINGS**. Don't confuse these two!
 
-First get that **token** and record it.  It will disappear from even GitHub.  Watch the video from **References** [1].  Paricularly the short segment on "create token"
 ### token
+First get that **token** and record it.  It will disappear from even GitHub.  Watch the video from **References** [1].  Paricularly the short segment on "create token"
+
 ```
 [USER ICON] - settings - <> developer settings - Personal access tokens -
 Tokens (classic) - Generate new token dropdown - Generate new token (classic) -
@@ -29,6 +30,14 @@ Select Scopes - just check **repo** - push "green" Generate Token -
 
 Coming back to this path will only allow you to see the name you created in "New Note" and
 change some of the token settings or add a new one, etc.
+```
+### email seeting - Privacy etc.
+You need an email setting.  However, you may NOT want it exposed to the 'world"  For a while I did.  I got a lot of spam.  However, if you make it private (without tweaking) you can't work with your respositories from your PC.  My workflow is to work with them from the comand line. (versus say from within PyCharm IDE).  There is more control and flexibility this way.  Tweak those settings.  There is a setting for keeping your email private.  I recommend that.  Do it and there is an additional setting.
+
+```
+[USER ICON] - Emails -
+
+There is 
 ```
 
 

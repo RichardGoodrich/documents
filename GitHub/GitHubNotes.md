@@ -60,7 +60,15 @@ Push **SAVE** button at bottom.
 ### Other Settings
 A lot of other things to set.  I just don't know what those might be!  This should get you started.
 
+# Making a Repository
+Yes, there is no way to do this remotely in my workflow.  It starts with creating one on GitHub.
 
+todo - the details
+
+# Workflow
+This is the everyday stuff.  That first part is very tricky though.  MUST get it right first or this is an NON Starter.
+
+todo - A lot of Corey Schafer suff here.
 
 # References
 ### [1]  How to Push Code to GitHub on the Command Line (2024 updated) - with Authentication

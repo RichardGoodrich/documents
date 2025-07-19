@@ -4,7 +4,7 @@ I did NOT find it all that easy.  Even, after watching several videos and creati
 My friends call me **biG**  (my enemies should NOT call me!) My daily driver OS on my PC is **MX_LINUX** and I use a very abbreviated cursur for the terminal command line: **">"**.  Yep, without any space after it.
 
 # Create GitHub account & initial settings
-Well I don't remember how I actually created it. Here is [biG's GitHub](https://github.com/RichardGoodrich/).  I *Bookmark* it. I also *bookmark* your [repo link](https://github.com/RichardGoodrich?tab=repositories).  (Sometimes I can't seem to get back to it from within certain pages within GitHub?)  **biG** is what I am called by my friends. 
+Well I don't remember how I actually created it. Here is [biG's GitHub](https://github.com/RichardGoodrich/).  I *Bookmark* it. I also *bookmark* my [repo link](https://github.com/RichardGoodrich?tab=repositories).  (Sometimes I can't seem to get back to it from within certain pages within GitHub?)  **biG** is what I am called by my friends. 
 
 When you *login* you can do it by your **email** or by your user name.  I created my login name as: "Richard Goodrich".  However, it gets the space removed to "RichardGoodrich" after that.  Yes, you should use sometype of **password management** system to record this stuff as there will be some stuff!  Your entry should look something like this:
 

@@ -6,7 +6,7 @@ My friends call me **biG**  (my enemies should NOT call me!) My daily driver OS 
 # Create GitHub account & initial settings
 Well, I don't remember how I actually created it. Here is [biG's GitHub](https://github.com/RichardGoodrich/).  I *Bookmark* it. I also *bookmark* my [repo link](https://github.com/RichardGoodrich?tab=repositories).  (Sometimes I can't seem to get back to it from within certain pages within GitHub?)  **biG** is what I am called by my friends. 
 
-*Login* by your **email** or by your **user name**.  I created my login name as: "Richard Goodrich".  However, in use the space is removed to render:  **RichardGoodrich**.  Use a **password management** system to record the details. There are several details **NOT** to forget!  And entry should look something like this:
+*Login* by your **email** or by your **user name**.  I created my login name as: "Richard Goodrich".  However, in use the space is removed to render:  **RichardGoodrich**.  Use a **password management** system to record the details. There are several details **NOT** to forget!  An entry should look something like this:
 
 ```
 link:    https://github.com/RichardGoodrich

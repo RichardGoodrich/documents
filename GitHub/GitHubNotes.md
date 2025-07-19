@@ -22,7 +22,13 @@ First get that **token** and record it.  It will disappear from even GitHub.  Wa
 ### token
 ```
 [USER ICON] - settings - <> developer settings - Personal access tokens -
-Tokens (classic) - Generate
+Tokens (classic) - Generate new token dropdown - Generate new token (classic) -
+New Note (write something: "biGtoken") - Expiration dropdown - No Expiration (there are other choices) -
+Select Scopes - just check **repo** - push "green" Generate Token -
+(copy it - there is a copy icon after it)
+
+Coming back to this path will only allow you to see the name you created in "New Note" and change some of he token settings
+or add a new one, etc.
 ```
 
 

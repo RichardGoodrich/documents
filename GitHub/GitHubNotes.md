@@ -11,4 +11,4 @@ login:  [USER NAME] | [EMAIL]
 pwd:    [PWD]
 token:  [TOKEN]
 ```
-I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of **SPAM* because of it.  You can login with your [USER NAME] or [EMAIL].  I like to use my [USER NAME].  However, in using GitHub it will want your [EMAIL].  
+I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of **SPAM** because of it.  You can login with your [USER NAME] or [EMAIL].  I like to use my [USER NAME].  However, in using GitHub it will want your [EMAIL].  

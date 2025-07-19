@@ -1,2 +1,4 @@
 # documents
-A place for various documents
+A place for various documents.   Starting with GitHub.
+
+

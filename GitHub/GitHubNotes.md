@@ -27,8 +27,8 @@ New Note (write something: "biGtoken") - Expiration dropdown - No Expiration (th
 Select Scopes - just check **repo** - push "green" Generate Token -
 (copy it - there is a copy icon after it)
 
-Coming back to this path will only allow you to see the name you created in "New Note" and change some of he token settings
-or add a new one, etc.
+Coming back to this path will only allow you to see the name you created in "New Note" and
+change some of he token settings or add a new one, etc.
 ```
 
 

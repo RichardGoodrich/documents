@@ -1,7 +1,7 @@
 # Introduction
 I did NOT find it all that easy.  Even, after watching several videos and creating a GitHub account.  I want to fill in some of those details.  I particularly want to expain it's use with **PyCharm** and the **UV environment manager** [UV site](https://docs.astral.sh/uv/pip/environments/).    I will focus on my particular work flow.
 
-My friends call me **biG**  (my enemies should NOT call me at all!) My daily driver OS on my PC is **MX_LINUX** and I use a very abbreviated cursur for the terminal command line: **">"**.  Yep, without any space after it.
+My friends call me **biG**  (my enemies should NOT call me!) My daily driver OS on my PC is **MX_LINUX** and I use a very abbreviated cursur for the terminal command line: **">"**.  Yep, without any space after it.
 
 # Create GitHub account & initial settings
 Well I don't remember how I actually created it. Here is [biG's GitHub](https://github.com/RichardGoodrich/).  *Bookmark* it. Then *bookmark* your [repo link](https://github.com/RichardGoodrich?tab=repositories).  (Sometimes I can't seem to get back to it from within certain pages within GitHub?)  **biG** is what I am called by my friends. 

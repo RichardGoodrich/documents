@@ -39,7 +39,12 @@ You need an email setting.  However, you may NOT want it exposed to the 'world" 
 
 Scroll to the bottom.   "Keep my email settings private"  On/Off slider to ON
 Now an additional On/Off slider appears:  Turn OFF: "Block command line pushes that expose my email"
+
+Push **SAVE** button at bottom.
 ```
+### Public Profile
+[USER ICON] - settings - Public Profile.  You should be able to tweak this to your liking.
+
 ### Action Settings for a specific repo
 Now go to a specific repository.  The default for a new respository is to have the Action workflow to be read only.  If you
 want to push and pull from it, tweak as follows:
@@ -47,13 +52,14 @@ want to push and pull from it, tweak as follows:
 ```
 Go to that specific repository.  Choose the settings dropdown across the top. On the left side:
 Open the **Actions** dropdown and choose **General**  Scroll to the bottom under the section:
-**Work permission** the default choice is:  **Read and repository 
+**Work permission** the default choice is:  **Read repository contents and package permission contents**
+Uncheck that one and choose: **Read and Write permission**
 
-
-
-- General 
-
+Push **SAVE** button at bottom.
 ```
+### Other Settings
+A lot of other things to set.  I just don't know what those might be!  This should get you started.
+
 
 
 # References

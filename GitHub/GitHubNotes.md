@@ -18,14 +18,17 @@ I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of
 
 There are two sets of setting that confused me!  There is the **USER ICON** settings found under that top right widget.  I loaded a **PNG** file of myself to make that clear.  Then there is a settings menu on the respository page.  Call that the **REPO SETTINGS**.
 
-First get that **token** and record it.  It will disappear from even GitHub.  Name it.  Mine is **biGToken**  I should reference a video for this.  For now the procedure goes like this:
+First get that **token** and record it.  It will disappear from even GitHub.  Watch the video from **References** [1].  Paricularly the short segment on "create token"
 ### token
 ```
 [USER ICON] - settings - <> developer settings - Personal access tokens -
-Tokens (classic) - [TOKEN NAME]   (I simply checked the **repo** section)
+Tokens (classic) - Generate
 ```
+
+
 # References
 ### [1]  How to Push Code to GitHub on the Command Line (2024 updated) - with Authentication
 **Infinite Codes** Apr 7, 2024 [YouTube](https://youtu.be/G7vMhsTUzWI)
+create token: 01:50 to 02:50
 
 

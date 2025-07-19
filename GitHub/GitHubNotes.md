@@ -14,12 +14,13 @@ login:  [USER NAME] | [EMAIL]
 pwd:    [PWD]
 token:  [TOKEN]
 ```
-I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of **SPAM** because of it.  You can login with your [USER NAME] or [EMAIL].  I like to use my [USER NAME].  However, in using GitHub it will want your [EMAIL].  **MOST IMPORTANTLY**, if you want to actually *use* your account you MUST create a **TOKEN** and tweak the settings.  GitHub quit allowing use of your **PWD**.
+I stay logged in most of the time.  That may NOT be a good idea!  I get a lot of **SPAM** because of it.  You can login with your [USER NAME] or [EMAIL].  I like to use my [USER NAME].  However, in using GitHub it demands your [EMAIL].  **MOST IMPORTANTLY**, if you want to actually **use** your account you **MUST** create a **TOKEN** and tweak the settings.  GitHub quit allowing use of your **PWD**.
 
 There are two sets of setting that confused me!  There is the **USER ICON** settings found under that top right widget.  I loaded a **PNG** file of myself to make that clear.  Then there is a settings menu on the respository page.  Call that the **REPO SETTINGS**.
 
+First get that **token** and record it.  It will disappear from even GitHub.  Name it.  Mine is **biGToken**  I should reference a video for this.  For now the procedure goes like this:
 ### token
-sss
-
-## TOKEN
-ggg
+```
+[USER ICON] - settings - <> developer settings - Personal access tokens -
+Tokens (classic) - [TOKEN NAME]   (I simply checked the **repo** section)
+```

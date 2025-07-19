@@ -35,9 +35,10 @@ change some of the token settings or add a new one, etc.
 You need an email setting.  However, you may NOT want it exposed to the 'world"  For a while I did.  I got a lot of spam.  However, if you make it private (without tweaking) you can't work with your respositories from your PC.  My workflow is to work with them from the comand line. (versus say from within PyCharm IDE).  There is more control and flexibility this way.  Tweak those settings.  There is a setting for keeping your email private.  I recommend that.  Do it and there is an additional setting.
 
 ```
-[USER ICON] - Emails -
+[USER ICON] - settings - Emails
 
-There is 
+Scroll to the bottom.   "Keep my email settings private"  On/Off slider to ON
+Now an additional On/Off slider appears:  Turn OFF: "Block command line pushes that expose my email"
 ```
 
 

@@ -1,5 +1,5 @@
 # Introduction
-I did NOT find it all that easy.  Even, after watching several videos and creating a GitHub account.  I want to fill in some of those details.  I particularly want to expain it's use with **PyCharm** and the **UV environment manager** [UV site](https://docs.astral.sh/uv/pip/environments/)  I will focus on my particular work flow.
+I did NOT find it all that easy.  Even, after watching several videos and creating a GitHub account.  I want to fill in some of those details.  I particularly want to expain it's use with **PyCharm** and the **UV environment manager** [UV site](https://docs.astral.sh/uv/pip/environments/).    I will focus on my particular work flow.
 
 My friends call me **biG**  (my enemies should NOT call me at all!) My daily driver OS on my PC is **MX_LINUX** and I use a very abbreviated cursur for the terminal command line: **">"**.  Yep, without any space after it.
 
